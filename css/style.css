@@ -88,23 +88,24 @@ header a:hover {
 
 #showcase {
 
-    min-height: 400px;
-    background: url(../img/showcase.jpg);
-    background-repeat: no-repeat;
-    background-position: 0 -400px ;
-    text-align: center;
-    color: #ffffff;
+    min-height: 0px;
+    background: url('../img/showcase.jpg') no-repeat 0 -20px;
+    border-image: fill;
+    image-resolution: 400px;
+    text-align: right;
+    color: #f70808;
 }
 
 
 #showcase h1{
     margin-top: 100px;
     font-size: 55px;
-    margin-top: 10px;
+    margin-bottom: 10px;
+    
 }
 
 #showcase p{
-    font-size: 20px;
+    font-size: 17px;
 }
 
 #newsletter{
@@ -273,3 +274,4 @@ footer{
         margin:0;
     }
 }
+
