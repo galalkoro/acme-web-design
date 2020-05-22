@@ -16,10 +16,4 @@ Code editor(such as vscode)
 
 ### 4. For whom?
 
-Beginner developers who especially want to learn ````semantic HTML.````
-
-  ### 5. Are you curious about how this project has changed step by step?
-
-* Change branch names on github branch label then check out develoment-strategy.md
-
-* Read user stories and observe html and css files.
+Beginner developers who especially want to learn `semantic HTML..`
